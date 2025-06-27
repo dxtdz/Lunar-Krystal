@@ -13,7 +13,7 @@
     "commandDisabled": [],
     "eventDisabled": [],
     "autoClean": true,
-    "ACCESSTOKEN": "",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBO2t5Ioog4VRoUfnyIGycvcaA3a2osZCGWunmJFR9dr4phjnPChGYspEvKLWVcZByskFLjZBSZB4mqX1R5e9iVmNjmoII5n3J2u2UZAq4QoZBzhZBuC2OrwUZA7uJQ7qAHzY90FANBGuXZCwZA7PLJYDahXV2nnUZCti97b3FXjoDo7Fk5Pdzi9tigZDZD",
     "BOTNAME": "gayporn",
     "AMDIN_NAME": "Xuân Thắng",
     "FACEBOOK_ADMIN": "https://www.facebook.com/xuan.thang.800994",
@@ -55,7 +55,7 @@
         "enable": true
     },
     "daily": {
-        "cooldownTime": 43200000,
+        "cooldownTime": 432000000000,
         "rewardCoin": 1000000
     },
     "anti": {
